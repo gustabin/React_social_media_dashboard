@@ -1,0 +1,28 @@
+.card-title {
+  color: yellow;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.card-followers-number {
+  color: white;
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+}
+
+.card-followers-title {
+  color: white;
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+}
+
+.card-today {
+  display: flex;
+  justify-content: center;
+}
+
+.card-followers-text {
+  color: rgb(27, 27, 44);
+  font-size: 15px;
+}
